@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence.",
+        "title": "Revolutionize Engineering Through Smart Risk"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Revolutionize Engineering Through Smart Risk",
+  "subtitle": "Unlock unparalleled innovation in development with Gamble, where calculated risk meets engineering excellence."
+}
